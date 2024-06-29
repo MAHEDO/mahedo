@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hi there 👋
+#Soy Lic. en Informática Administrativa con mas de 6 años de experiancia en el desarrollo de software.
+Principalmente del lado del desarrollo Front End como desarrollador Movil IOS y Android. 
 
 <!--
 **MAHEDO/mahedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
